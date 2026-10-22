@@ -1,10 +1,10 @@
 # 4-bit-Processor-and-UART-RTL-Design
 
-##Project Status
+## Project Status
 
 Status: Planned / Not Yet Implemented
 
-##Overview
+## Overview
 
 This repository is intended to contain two digital-design projects developed using Verilog HDL:
 
@@ -12,7 +12,7 @@ This repository is intended to contain two digital-design projects developed usi
 
 UART Communication: RTL implementation of a UART transmitter and receiver for serial data communication.
 
-##Planned Verification
+## Planned Verification
 
 Testbench development and functional simulation
 
@@ -22,7 +22,7 @@ Verification of processor instruction execution
 
 UART start-bit, data-bit, and stop-bit timing checks
 
-##Tools
+## Tools
 
 Verilog HDL
 
@@ -30,6 +30,6 @@ Xilinx Vivado
 
 GTKWave
 
-##Current Limitations
+## Current Limitations
 
 The designs have not yet been implemented or verified. Features, test results, and supported functionality will be documented as development progresses.
